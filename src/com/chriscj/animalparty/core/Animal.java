@@ -1,4 +1,4 @@
-package com.chriscj.animalparty.init;
+package com.chriscj.animalparty.core;
 
 import static com.chriscj.animalparty.util.Util.capitalize;
 
